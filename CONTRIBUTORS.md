@@ -19,7 +19,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ### Format: **[Your Full Name]** (GitHub: [Your GitHub Username]): My favorite movie is [Your Favorite Movie]
 ### Example: **Vinayak Javaly** (GitHub: vjavaly): My favorite movie is Apocalypse Now!
 
-## Student Entries:
+## Student Contributors:
 <!-- Students: Add your entries below this line! -->
 Vinayak Javaly (GitHub: vjavaly2): My favorite movie is The Big Chill
 
