@@ -21,6 +21,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+-Richard Lee (GitHub: richardl2110456) My favorite movie is Avengers Endgame!
+
 
 
 
