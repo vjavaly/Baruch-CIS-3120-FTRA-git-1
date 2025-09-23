@@ -21,7 +21,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
-
+### **JOVADA DEACON** (Github: FrankensteinJD: My favorite movie is The Iron Giant)
 
 
 
