@@ -21,6 +21,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+## **Fardeen Fahim** (GitHub:fardeen-09): My favorite move is The Dark Knight Rises!
 
 
 
