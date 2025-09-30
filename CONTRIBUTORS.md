@@ -22,7 +22,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
 
-
+**Sean Powell** (GitHub: spowelldv): My favorite movie is Ocean's 11!
 
 
 
