@@ -22,6 +22,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
 =======
+**Zachary Amachee** (GitHub: Zachetc): My favorite movie is Interstellar!
+=======
 **Mateusz Drozdz** (GitHub: mdrozdz1): My favorite movie is Hardcore Henry.
 =======
 **Safa Khan** (GitHub: safk612): My favorite movie is Spiderman: Across the Spider-Verse
