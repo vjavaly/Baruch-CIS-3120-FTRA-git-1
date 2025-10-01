@@ -22,7 +22,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
 =======
-
+**Erick Buitrago** (GitHub: erickbm303): My favorite movie/series is Arcane 
+=======
 **Jahn Vallejo** (GitHub: JahnPV): My favorite movie is Nacho Libre!
 ======= 
 **Aron Wu** (GitHub: AronWu04): My favorite movie is Dragon Ball Super: Super Hero!
