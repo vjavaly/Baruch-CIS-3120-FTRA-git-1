@@ -21,7 +21,6 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
-=======
 
 **Ekaterina Gribas** (GitHub: [egribas]): My favorite movie is I don't have a favorite movie
 =======
