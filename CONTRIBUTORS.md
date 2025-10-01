@@ -22,6 +22,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
 =======
+**Kristina Tsoyi** (GitHub: kristsoy): My favorite movie is Twilight
+=======
 **Jose Espinel** (GitHub: JoseAndresEspinel): My favorite movie is The Incredibles
 =======
 **Jose Velazquez** (GitHub: Hosv5231): My Favorite movie is The Game Plan!
