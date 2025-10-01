@@ -22,6 +22,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
 =======
+**Mahmoud Hosny** (GitHub: mahmoudhosny8711@gmail.com): My favorite movie is Fast & Furiours 
+=======
 **Kristina Tsoyi** (GitHub: kristsoy): My favorite movie is Twilight
 =======
 **Jose Espinel** (GitHub: JoseAndresEspinel): My favorite movie is The Incredibles
