@@ -21,7 +21,13 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
-- **Alexander Megahed** (GitHub: alexmegav): My favorite movie is Lion King
--Richard Lee (GitHub: richardl2110456) My favorite movie is Avengers Endgame!
+**JOVADA DEACON** (Github: FrankensteinJD: My favorite movie is The Iron Giant)
+=======
+**Alexander Megahed** (GitHub: alexmegav): My favorite movie is Lion King
+=======
+**Richard Lee** (GitHub: richardl2110456) My favorite movie is Avengers Endgame!
+=======
 **Nisha Gupta** (GitHub: nishagupta8357): My favorite movie is The Dark Knight!!!!
+=======
 **Lachlan Kenneth McKenzie** (GitHub: Loch_Fjord): My favorite movie is Murder By Death (mostly in concept)
+=======
