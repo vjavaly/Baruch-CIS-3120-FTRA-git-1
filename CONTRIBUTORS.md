@@ -22,6 +22,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
 =======
+**Irene Yeung** (GitHub: IreneY88): My favorite movie is Flow
+=======
 **Dooyeon Jeong** (GitHub: darcidoo): My favorite movie is Ponyo!
 =======
 **Fardeen Fahim** (GitHub:fardeen-09): My favorite move is The Dark Knight Rises!
