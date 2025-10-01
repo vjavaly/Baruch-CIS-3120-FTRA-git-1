@@ -22,6 +22,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
 =======
+**Arman Singh** (GitHub: NeedSleepBadly): My favorite movie is Memento
+=======
 **Eduarda Gavilanes** (GitHub: egavilanes-gif): My favorite movie is Inception
 =======
 **Ainoon Khan** (GitHub: AinoonKhan): My favorite movie is Jurassic World!
