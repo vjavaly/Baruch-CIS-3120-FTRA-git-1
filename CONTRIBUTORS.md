@@ -21,6 +21,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+======= 
+**Aron Wu** (GitHub: AronWu04): My favorite movie is Dragon Ball Super: Super Hero!
 =======
 **Mahmoud Hosny** (GitHub: mahmoudhosny8711@gmail.com): My favorite movie is Fast & Furiours 
 =======
