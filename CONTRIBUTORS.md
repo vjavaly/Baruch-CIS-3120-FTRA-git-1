@@ -1,7 +1,7 @@
 # CIS 3120 FTRA Student Contributors
 
 This file lists all the amazing students contributing to our class's Git/GitHub exercise!
-
+- **Felix Gonzalez** (GitHub: Fg111657): My favorite movie is dude wheres my car
 ---
 
 ## How to add your entry:
