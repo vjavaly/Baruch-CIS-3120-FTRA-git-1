@@ -79,3 +79,4 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 =======
 **Lachlan Kenneth McKenzie** (GitHub: Loch_Fjord): My favorite movie is Murder By Death (mostly in concept)
 =======
+**Christopher Juca** (GitHub: ChristopherJuca): My favorite movie is Spiderman
