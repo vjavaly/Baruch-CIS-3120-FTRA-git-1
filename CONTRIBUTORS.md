@@ -31,6 +31,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 **Randy Leal** (GitHub: [randyleal333]: My favorite movie is SOUL
 **Janet Lu** (GitHub: gudetama3003): My favorite movie is The Fantastic Four!
 =======
+**Samuel Filpo**(Github: SamuelFilpo): My Favorite show(Don't have movie right now) is The Chosen
+**Kyle Rodriguez** (GitHub:Trident93): 
 **Kyle Rodriguez** (GitHub:Trident93):
 =======
 **Ekaterina Gribas** (GitHub: [egribas]): My favorite movie is I don't have a favorite movie
