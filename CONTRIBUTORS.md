@@ -21,7 +21,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
-
+**Fan Zhu** (GitHub: fanzhu47): My favorite movie is Mr. Vampire.
 =======
 **Kyle Rodriguez** (GitHub:Trident93): 
 =======
