@@ -80,6 +80,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 =======
 **Lachlan Kenneth McKenzie** (GitHub: Loch_Fjord): My favorite movie is Murder By Death (mostly in concept)
 =======
+**Lina Xia** (GitHub: linax6960): My favorite movie is Train to Busan
 ***Andrea Quinonez** (GitHub: andreaquinonez04): My favorite movie is Anora! (This was very hard to choose!)
 **Nathan Dalton** (GitHub: natexdalton): My favorite movie is The Rocky Horror Picture Show
 **Derick Garcia** (GitHub: Poyo11212) My favorite movie is Lilo and Stitch (2002, haven't watched the remake yet)
