@@ -80,6 +80,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 =======
 **Lachlan Kenneth McKenzie** (GitHub: Loch_Fjord): My favorite movie is Murder By Death (mostly in concept)
 =======
+**Viacheslav Karasev** (GitHub: sam-karasev): My favorite movie is Madagascar.
 **Omar Portillo-Carrillo** (GitHub: omarpoj): My favorite movie is Good Will Hunting 
 **Alexandra Rodriguez** (GitHub: alexandrarod): My favorite movie is Avengers Endgame
 **Dylan Quezada** (GitHub: Archervie): My favorite movie is Interstellar
