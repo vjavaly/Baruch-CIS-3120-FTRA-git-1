@@ -23,6 +23,8 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 <!-- Students: Add your entries below this line! -->
 
 =======
+**Samuel Filpo**(Github: SamuelFilpo): My Favorite show(Don't have movie right now) is The Chosen
+=======
 **Kyle Rodriguez** (GitHub:Trident93): 
 =======
 **Ekaterina Gribas** (GitHub: [egribas]): My favorite movie is I don't have a favorite movie
