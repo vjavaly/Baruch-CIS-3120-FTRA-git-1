@@ -22,8 +22,6 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
 **Janet Lu** (GitHub: gudetama3003): My favorite movie is The Fantastic Four!
-
-
 =======
 **Kyle Rodriguez** (GitHub:Trident93): 
 =======
@@ -81,5 +79,5 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 =======
 **Lachlan Kenneth McKenzie** (GitHub: Loch_Fjord): My favorite movie is Murder By Death (mostly in concept)
 =======
+**Nathan Dalton** (GitHub: natexdalton): My favorite movie is The Rocky Horror Picture Show
 **Derick Garcia** (GitHub: Poyo11212) My favorite movie is Lilo and Stitch (2002, haven't watched the remake yet)
-======= 
