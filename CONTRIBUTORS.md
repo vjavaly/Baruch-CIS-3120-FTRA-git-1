@@ -21,6 +21,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
+**Ajay Ramphal** (GitHub:A-Ramphal): My favorite movie is The Godfather
 **Randy Leal** (GitHub: [randyleal333]: My favorite movie is SOUL
 **Janet Lu** (GitHub: gudetama3003): My favorite movie is The Fantastic Four!
 =======
