@@ -21,7 +21,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
-
+**Calvin Cheung** (GitHub:Calvin-dk): My favorite movie is Coraline.
 =======
 **Kyle Rodriguez** (GitHub:Trident93): 
 =======
