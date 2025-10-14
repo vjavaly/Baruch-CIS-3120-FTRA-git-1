@@ -80,6 +80,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 =======
 **Lachlan Kenneth McKenzie** (GitHub: Loch_Fjord): My favorite movie is Murder By Death (mostly in concept)
 =======
+**Christopher Juca** (GitHub: ChristopherJuca): My favorite movie is Spiderman
 **Mahtasibur Rashid** (GitHub: MahimR-class): My favorite movie is Spider-man 2.
 **Andy Wong** (GitHub: awxtr): My favorite movie is War Dogs
 **Lina Xia** (GitHub: linax6960): My favorite movie is Train to Busan
