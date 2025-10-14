@@ -80,6 +80,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 =======
 **Lachlan Kenneth McKenzie** (GitHub: Loch_Fjord): My favorite movie is Murder By Death (mostly in concept)
 =======
+**Alexandra Rodriguez** (GitHub: alexandrarod): My favorite movie is Avengers Endgame
 **Dylan Quezada** (GitHub: Archervie): My favorite movie is Interstellar
 **Md Mahamudul Hasan Alvi** (GitHub: malvi015): My favorite movie is Spider-Man!
 **Ayman Haque** (GitHub: HQEye): My favorite movie is Tarzan!
