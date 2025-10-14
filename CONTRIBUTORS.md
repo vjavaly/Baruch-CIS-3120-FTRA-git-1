@@ -90,6 +90,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 =======
 **Lachlan Kenneth McKenzie** (GitHub: Loch_Fjord): My favorite movie is Murder By Death (mostly in concept)
 =======
+**Dylan Corral** (GitHub: longtime69): My favorite movie is Home Alone
 **Carl John Abella** (Github: carljohna): My favorite movie is La La Land
 **Jonathan Danilov** (GitHub: JDSpark): My favorite movie Don't Mess With The Zohan
 **Michael Herrera** (GitHub: (michaeljh3210-wq): My favorite movie is Pulp Fiction
