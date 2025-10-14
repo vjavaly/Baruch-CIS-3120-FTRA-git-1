@@ -83,6 +83,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 =======
 **Lachlan Kenneth McKenzie** (GitHub: Loch_Fjord): My favorite movie is Murder By Death (mostly in concept)
 =======
+**Michael Herrera** (GitHub: (michaeljh3210-wq): My favorite movie is Pulp Fiction
 **Anson Wong** (GitHub: ansonwong-1): My favorite movie is Your Name.
  **Soraya Lombard** (GitHub: SorayaLombard): My favorite movie is Entergalactic.
 **Viacheslav Karasev** (GitHub: sam-karasev): My favorite movie is Madagascar.
