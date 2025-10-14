@@ -24,6 +24,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Contributors:
 
+**Tenzin Namdol** (GitHub: tenzin-namdol): My favorite movie is Goodwill Hunting!
 <!-- Students: Add your entries below this line! -->
 **Calvin Cheung** (GitHub:Calvin-dk): My favorite movie is Coraline.
 **Fan Zhu** (GitHub: fanzhu47): My favorite movie is Mr. Vampire.
