@@ -22,6 +22,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Contributors:
 <!-- Students: Add your entries below this line! -->
 
+**Tenzin Namdol** (GitHub: tenzin-namdol): My favorite movie is Goodwill Hunting!
 =======
 **Kyle Rodriguez** (GitHub:Trident93): 
 =======
