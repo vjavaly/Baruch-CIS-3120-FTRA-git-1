@@ -1,7 +1,9 @@
 # CIS 3120 FTRA Student Contributors
 
 This file lists all the amazing students contributing to our class's Git/GitHub exercise!
+
 - **Felix Gonzalez** (GitHub: Fg111657): My favorite movie is dude wheres my car
+
 ---
 
 ## How to add your entry:
@@ -12,14 +14,16 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 4.  **Save** your changes.
 5.  **Stage** and **commit** your changes locally.
 6.  **Push** your changes to your forked repository on GitHub.
-7.  **Create a Pull Request** from your fork to the `main` branch of the *original* repository.
+7.  **Create a Pull Request** from your fork to the `main` branch of the _original_ repository.
 
 ---
 
 ### Format: **[Your Full Name]** (GitHub: [Your GitHub Username]): My favorite movie is [Your Favorite Movie]
+
 ### Example: **Vinayak Javaly** (GitHub: vjavaly2): My favorite movie is Apocalypse Now!
 
 ## Student Contributors:
+
 <!-- Students: Add your entries below this line! -->
 **Calvin Cheung** (GitHub:Calvin-dk): My favorite movie is Coraline.
 **Fan Zhu** (GitHub: fanzhu47): My favorite movie is Mr. Vampire.
@@ -27,7 +31,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 **Randy Leal** (GitHub: [randyleal333]: My favorite movie is SOUL
 **Janet Lu** (GitHub: gudetama3003): My favorite movie is The Fantastic Four!
 =======
-**Kyle Rodriguez** (GitHub:Trident93): 
+**Kyle Rodriguez** (GitHub:Trident93):
 =======
 **Ekaterina Gribas** (GitHub: [egribas]): My favorite movie is I don't have a favorite movie
 =======
@@ -47,13 +51,13 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 =======
 **Caroline LaDouce** (GitHub: carolineladouce): My favorite movie is It's the Great Pumpkin, Charlie Brown
 =======
-**Erick Buitrago** (GitHub: erickbm303): My favorite movie/series is Arcane 
+**Erick Buitrago** (GitHub: erickbm303): My favorite movie/series is Arcane
 =======
 **Jahn Vallejo** (GitHub: JahnPV): My favorite movie is Nacho Libre!
-======= 
+=======
 **Aron Wu** (GitHub: AronWu04): My favorite movie is Dragon Ball Super: Super Hero!
 =======
-**Mahmoud Hosny** (GitHub: mahmoudhosny8711@gmail.com): My favorite movie is Fast & Furiours 
+**Mahmoud Hosny** (GitHub: mahmoudhosny8711@gmail.com): My favorite movie is Fast & Furiours
 =======
 **Kristina Tsoyi** (GitHub: kristsoy): My favorite movie is Twilight
 =======
@@ -83,6 +87,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 =======
 **Lachlan Kenneth McKenzie** (GitHub: Loch_Fjord): My favorite movie is Murder By Death (mostly in concept)
 =======
+**Jonathan Danilov** (GitHub: JDSpark): My favorite movie Don't Mess With The Zohan
 **Michael Herrera** (GitHub: (michaeljh3210-wq): My favorite movie is Pulp Fiction
 **Anson Wong** (GitHub: ansonwong-1): My favorite movie is Your Name.
  **Soraya Lombard** (GitHub: SorayaLombard): My favorite movie is Entergalactic.
